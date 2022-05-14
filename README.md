@@ -20,7 +20,7 @@ Mr. Spice needs branding indentiy for his website as well including: a logo, col
 
 - Project Manager(s) (1-2) people needed
 - Web designers - Will be working in a group (3-7) people
-- Web Devs - Can work in a group or separate (3-9) people
+- Web Devs - Can work in a group or separate (3 roles left)
 - UI/UX - I will not be grouping these roles together. There will be a UI group and a UX group. (2-4) people will be needed for each.
 - Backend Developer? - If someone would like this role just ask. (2-3) people
 - Quality testers - You do not have to do any type of programming or designing. This role is most suited for people who want to be in the tech industry, but do not want to code. Within this role you must document any bugs or other issues the site runs into, such as checking for responsiveness, accessibility, etc. (1-3) people needed for this role.
