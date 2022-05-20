@@ -9,14 +9,31 @@
 
 body{
     background: olive;
+    padding:2rem;
 }
 
 h1{
     color: white;
 }
 
+.bathroom{
+    width: 20rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1.5rem;
+}
+
 h2{
     color: yellow;
+}
+
+.middle{
+    color:hsl(143, 72%, 28%)
+}
+
+.middle2{
+    color:hsl(264, 45%, 38%);
 }
 
 p{
