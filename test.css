@@ -24,8 +24,24 @@ h1{
     padding:1.5rem;
 }
 
+.bathroom2{
+    width: 20rem;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:1.5rem;
+   
+}
+
 h2{
     color: yellow;
+    padding:.9rem;
+    font-size: 2.5rem;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
 }
 
 .middle{
@@ -39,5 +55,6 @@ h2{
 p{
     font-size:0.9rem ;
     color: darkblue;
+    padding:.5rem;
 }
 
