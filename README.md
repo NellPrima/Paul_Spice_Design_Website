@@ -1,6 +1,8 @@
 # Paul_Spice_Design_Website
 A project that helps people learn how to use GitHub, Node.js and Git.
 
+This repo is where we will keep our files for the project.
+
 # Paul Spice Designs Prompt
 
 A client (Paul Spice) is in need of an interior design site made. He is looking for a final product with seven pages that is user friendly and responsive for mobile, tablet, and desktop. The site must be a modern design with a minimalist look that shows class, elegance and displays his design skills and pieces (vases, furniture, etc.) **Also a design  with accessibility in mind.**
